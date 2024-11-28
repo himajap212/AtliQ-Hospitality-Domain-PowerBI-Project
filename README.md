@@ -10,10 +10,11 @@ You are a data analyst who has been provided with sample data and a mock-up dash
 <li>Create the metrics according to the metric list.</li>
 <li>Create a dashboard according to the mock-up provided by stakeholders.</li>
 <li>Create relevant insights that are not provided in the metric list/mock-up dashboard.</li>
-Provided Mock-up Dashboard
+<h2>Provided Mock-up Dashboard</h2>
+<img src="mock up dashboard_atliq grands.jpg" alt="Mock up dashboard" style="width:500px;height:600px;">
 
+<h2>Data Model</h2>
+<img src="data model.jpg" alt="Data model" style="width:500px;height:600px;">
 
-Data Model
-
-
-Overall Analysis View
+<h2>Overall Analysis View</h2>
+<img src="overall_analysis.jpg" alt="Overall analysis" style="width:500px;height:600px;">
