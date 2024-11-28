@@ -13,6 +13,7 @@ You are a data analyst who has been provided with sample data and a mock-up dash
 <h2>Provided Mock-up Dashboard</h2>
 <!-- <img src="mock up dashboard_atliq grands.jpg" alt="Mock up dashboard" style="width:500px;height:600px;">
  -->
+ ![mock up dashboard_atliq grands](https://github.com/user-attachments/assets/b4930356-d21e-4cc2-a148-082e1272ca07)
   
 <h2>Data Model</h2>
 <!-- <img src="data model.jpg" alt="Data model" style="width:500px;height:600px;"> -->
