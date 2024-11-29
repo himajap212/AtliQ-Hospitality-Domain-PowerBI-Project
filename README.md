@@ -9,8 +9,9 @@ You are a data analyst who has been provided with sample data and a mock-up dash
 <ul>
 <li>Create the metrics according to the metric list.</li>
 <li>Create a dashboard according to the mock-up provided by stakeholders.</li>
-<li>Create relevant insights that are not provided in the metric list/mock-up dashboard.</li>
-<h2>Provided Mock-up Dashboard</h2>
+<li>Create relevant insights that are not provided in the metric list/mock-up dashboard.</li></ul>
+
+<h3>Provided Mock-up Dashboard</h3>
 <!-- <img src="mock up dashboard_atliq grands.jpg" alt="Mock up dashboard" style="width:500px;height:600px;">
  -->
  ![mock up dashboard_atliq grands](https://github.com/user-attachments/assets/b4930356-d21e-4cc2-a148-082e1272ca07)
