@@ -12,11 +12,11 @@ You are a data analyst who has been provided with sample data and a mock-up dash
 <li>Create relevant insights that are not provided in the metric list/mock-up dashboard.</li></ul>
 
 <h3>Provided Mock-up Dashboard</h3>
-<!-- <img src="mock up dashboard_atliq grands.jpg" alt="Mock up dashboard" style="width:500px;height:600px;">
- -->
- ![mock up dashboard_atliq grands](https://github.com/user-attachments/assets/b4930356-d21e-4cc2-a148-082e1272ca07)
+<!-- <img src="mock up dashboard_atliq grands.jpg" alt="Mock up dashboard" style="width:500px;height:600px;"> -->
+
+![mock up dashboard_atliq grands](https://github.com/user-attachments/assets/b4930356-d21e-4cc2-a148-082e1272ca07)
   
-<h2>Data Model</h2>
+<h3>Data Model</h3>
 <!-- <img src="data model.jpg" alt="Data model" style="width:500px;height:600px;"> -->
 ![data_model](https://github.com/user-attachments/assets/63e5e10b-220b-4c6b-a0ee-b0edb7d2831e)
 
