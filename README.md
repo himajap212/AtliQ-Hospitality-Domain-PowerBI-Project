@@ -16,19 +16,7 @@ You are a data analyst who has been provided with sample data and a mock-up dash
 
 ![mock up dashboard_atliq grands](https://github.com/user-attachments/assets/b4930356-d21e-4cc2-a148-082e1272ca07)
   
-<h3>Data Model</h3>
-<!-- <img src="data model.jpg" alt="Data model" style="width:500px;height:600px;"> -->
-![data_model](https://github.com/user-attachments/assets/63e5e10b-220b-4c6b-a0ee-b0edb7d2831e)
 
-<h2>Overall Analysis View</h2>
-<!-- <img src="overall_analysis.jpg" alt="Overall analysis" style="width:500px;height:600px;"> -->
-![overall_analysis](https://github.com/user-attachments/assets/bf5b84c1-192f-426f-8543-93cfa6e12681)
-
-<h2>Revenue Analysis</h2>
-![Revenue analysis](https://github.com/user-attachments/assets/bd6b4e18-3366-4b90-844f-bfc637f84280)
-
-<h2>Booking Analysis</h2>
-![booking analysis](https://github.com/user-attachments/assets/39d992d1-f381-405b-8147-68c1a3365aea)
 
 <h2>Insights from the Dashboard</h2>
 <li>Mumbai generates the highest revenue (669 M) followed by Bangalore, Hyderabad and Delhi.</li>
